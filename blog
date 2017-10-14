@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>No-Lifers Club</title>
+  </head>
+  <body>
+    <h1>No-Lifers Club</h1>
+    <p> </p>
+    <p>From here you can:</p>
+    <li>
+      <a href="index">Home</a>
+      <a href="blag">Blog</a>
+      <a href="info">Info</a>
+    </li>
+    <p> </p>
+    <p>W e l c o m e T o T h e B l o g o s p h e r e</p>
+  </body>
+</html>
